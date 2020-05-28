@@ -9,7 +9,7 @@
  */
 
 module.exports.routes = {
-  'GET /helloword': {
+  'GET /helloworld': {
     controller: 'HelloWorldController',
     action: 'helloWorld'
   },
